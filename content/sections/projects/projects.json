@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Data Visualization",
+      "title": "Digital Twin of Los Angeles",
+      "description": "A digital twin of Los Angeles, CA, USA, built with open data and open source tools.",
+      "tags": ["Javascript", "HTML/CSS"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/shaurya-pathak/DTCesium"
+        }
+      ]
+    }
+    
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

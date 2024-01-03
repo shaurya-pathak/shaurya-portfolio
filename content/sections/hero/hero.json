@@ -1,0 +1,22 @@
+{
+  "intro": "Hey, I am Shaurya!",
+  "heroPhoto": {
+    "src": "../../images/shauryapathak_bitmoji.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Computer Science Student",
+  "subtitle": {
+    "prefix": "at UC Riverside",
+    "highlight": "",
+    "suffix": "."
+  },
+  "description": "I work on machine learning oriented projects in fields that I am passionate about, chess, sports, and air quality. I am also interested in web development and have worked on a few projects in that field as well.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}

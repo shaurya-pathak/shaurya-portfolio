@@ -1,0 +1,13 @@
+{
+  "name": "Shaurya Pathak",
+  "email": "shauryapathak24@gmail.com",
+  "description": "",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
