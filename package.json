@@ -7,9 +7,11 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && cp CNAME public/",
     "deploy": "gh-pages -d public"
   },
+  
+  
   "engines": {
     "node": ">=18.0.0"
   },
