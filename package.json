@@ -6,7 +6,9 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public"
   },
   "engines": {
     "node": ">=18.0.0"
@@ -20,10 +22,10 @@
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "homepage": "www.shauryapathak.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/konstantinmuenster/shaurya-pathak.git"
   },
   "bugs": {
     "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
@@ -39,5 +41,8 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
