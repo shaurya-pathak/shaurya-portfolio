@@ -4,15 +4,17 @@
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Shaurya Pathak",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Development Portfolio / Blog of Shaurya Pathak",
     "author": "Shaurya Pathak",
     "avatar": "../content/images/gatsby.png",
     "bio": "Shaurya Pathak is machine learning enthusiast studying at UC Riverside.",
     "social": {
-      "behance": "https://behance.com",
+      "behance": "chess.shauryapathak.xyz",
       "github": "https://github.com/shaurya-pathak",
       "linkedin": "https://www.linkedin.com/in/shaurya-pathak-b0614a1b2/",
-      "mail": "mailto:spath017@ucr.edu"
+      "medium": "https://medium.com/@shauryapathak",
+      "mail": "mailto:spath017@ucr.edu",
+      "featured": "chess.shauryapathak.xyz"
     }
   },
   "siteConfiguration": {

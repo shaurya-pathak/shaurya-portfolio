@@ -2,12 +2,30 @@
   "projects": [
     {
       "visible": true,
-      "category": "Data Visualization",
+      "category": "Deep Learning",
+      "title": "Neural Network Chess Engine",
+      "description": "Neural network chess engine similar to alphazero, using convolution neural networks trained on consumer grade hardware and hosted on Google Cloud Platform.",
+      "tags": ["Deep Learning", "Python", "Tensorflow", "Google Cloud Platform"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://chess.shauryapathak.xyz"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://chess.shauryapathak.xyz"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Geospatial Analysis",
       "title": "Digital Twin of Los Angeles",
       "description": "A digital twin of Los Angeles, CA, USA, built with open data and open source tools.",
       "tags": ["Javascript", "HTML/CSS"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/digitaltwinimage.png",
         "alt": "Quick Setup",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },

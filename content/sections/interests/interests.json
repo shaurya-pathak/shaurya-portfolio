@@ -17,14 +17,14 @@
     {
       "label": "Chess",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/knight.png",
         "alt": ""
       }
     },
     {
       "label": "Basketball",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/basketball.png",
         "alt": ""
       }
     }
@@ -32,6 +32,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 2
+    "initiallyShownInterests": 4
   }
 }

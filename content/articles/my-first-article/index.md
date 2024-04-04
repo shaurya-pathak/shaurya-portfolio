@@ -2,7 +2,10 @@
 title: "Journey into Computer Science and Hobbies"
 description: "Join me, Shaurya Pathak, as I embark on a fascinating journey exploring the realms of computer science and my diverse hobbies. From coding intricacies to the strategic game of chess, the art of cooking, and the empowering world of fitness, this blog is a tapestry of my passions."
 date: 2024-01-03
-banner: "../../images/2024-01-03-Journey-into-Computer-Science-and-Hobbies-banner-image.png"
+banner:
+  src: "../../images/2024-01-03-Journey-into-Computer-Science-and-Hobbies-banner-image.png"
+  alt: "First Markdown Post"
+  caption: ''
 categories: 
   - Computer Science
   - Hobbies
