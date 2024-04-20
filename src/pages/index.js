@@ -15,7 +15,7 @@ export default function IndexPage() {
     <>
       <Seo title="Shaurya Pathak" />
       <Page useSplashScreenAnimation>
-      <div style={{
+      {/* <div style={{
         textAlign: 'center',
         backgroundColor: '#222', // Assuming you want a white background
         color: '#fff', // Text color is black to contrast with the white background
@@ -36,7 +36,7 @@ export default function IndexPage() {
         >
           Check out my featured web application <b><u> Here!</u></b>
         </a>
-      </div>
+      </div> */}
 
 
         <HeroSection sectionId="hero" />

@@ -35,6 +35,42 @@
           "url": "https://github.com/shaurya-pathak/DTCesium"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Tools",
+      "title": "Canvas Assignments to Spreadsheets",
+      "description": "Compiles all assignments from all Canvas courses for a quarter into a single spreadsheet for easy organization.",
+      "tags": ["Javascript", "HTML/CSS"],
+      "image": {
+        "src": "../../images/canvas_img.webp",
+        "alt": "Quick Setup",
+        "linkTo": "cts.shauryapathak.xyz"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/shaurya-pathak/canvas-to-spreadsheet.github.io"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Tools",
+      "title": "Discord Sentimental Analysis Bot",
+      "description": "Uses natural language processing to calculate the sentiment of a message and show the analysis of a discord server as it pertains to different keywords. Made for 12 hour hackathon at Cutiehack 2022.",
+      "tags": ["Javascript", "Python", "Discord API"],
+      "image": {
+        "src": "../../images/cutiesentimental.png",
+        "alt": "Quick Setup",
+        "linkTo": "kavinphab.github.io"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/RohanBijukumar/CutieSentimental"
+        }
+      ]
     }
     
   ],
