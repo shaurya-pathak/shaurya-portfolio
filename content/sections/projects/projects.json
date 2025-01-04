@@ -7,14 +7,14 @@
       "description": "Neural network chess engine similar to alphazero, using convolution neural networks trained on consumer grade hardware and hosted on Google Cloud Platform.",
       "tags": ["Deep Learning", "Python", "Tensorflow", "Google Cloud Platform"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/pathchess.webp",
         "alt": "Quick Setup",
-        "linkTo": "https://chess.shauryapathak.xyz"
+        "linkTo": "https://chess.shauryapathak.com"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://chess.shauryapathak.xyz"
+          "url": "https://github.com/shaurya-pathak/path-chess-zero"
         }
       ]
     },
@@ -38,6 +38,42 @@
     },
     {
       "visible": true,
+      "category": "App Development",
+      "title": "Mood",
+      "description": "Mood is an innovative web application designed to strengthen support networks by enabling users to join groups, track and visualize mood trends within their circle over time. Utilizing advanced AI algorithms, Mood analyzes voice and facial expressions from daily check-ins to assess emotional states, fostering timely and empathetic interactions among friends. The platform is built with robust Firebase integration for scalable, real-time database management, ensuring secure data handling and user authentication.",
+      "tags": ["React Native", "Firebase", "AI", "Voice Recognition", "Image Processing"],
+      "image": {
+        "src": "../../images/mood.webp",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/stormyy00/HackTech2024"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/stormyy00/HackTech2024"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Web Development",
+      "title": "Codenames",
+      "description": "Codenames is a simple board game involved with words and guessing. This project is a web application that allows users to play the game with their friends online. The game is built with React and Flask, and features a game room system for people to play with their friends.",
+      "tags": ["React Native", "Flask", "DevOps", "Full Stack"],
+      "image": {
+        "src": "../../images/codenames.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://codenames.shauryapathak.com"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/shaurya-pathak/codenames"
+        }
+      ]
+    },       
+    {
+      "visible": true,
       "category": "Tools",
       "title": "Canvas Assignments to Spreadsheets",
       "description": "Compiles all assignments from all Canvas courses for a quarter into a single spreadsheet for easy organization.",
@@ -45,7 +81,7 @@
       "image": {
         "src": "../../images/canvas_img.webp",
         "alt": "Quick Setup",
-        "linkTo": "cts.shauryapathak.xyz"
+        "linkTo": "https://cts.shauryapathak.com"
       },
       "links": [
         {
@@ -63,7 +99,7 @@
       "image": {
         "src": "../../images/cutiesentimental.png",
         "alt": "Quick Setup",
-        "linkTo": "kavinphab.github.io"
+        "linkTo": "https://kavinphab.github.io"
       },
       "links": [
         {

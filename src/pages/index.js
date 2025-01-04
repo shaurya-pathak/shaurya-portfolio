@@ -15,14 +15,14 @@ export default function IndexPage() {
     <>
       <Seo title="Shaurya Pathak" />
       <Page useSplashScreenAnimation>
-      {/* <div style={{
+      <div style={{
         textAlign: 'center',
         backgroundColor: '#222', // Assuming you want a white background
         color: '#fff', // Text color is black to contrast with the white background
         padding: '30px',
         marginBottom: '20px',
       }}>
-        <a href="http://chess.shauryapathak.xyz"
+        <a href="http://chess.shauryapathak.com"
           target="_blank"
           rel="noopener noreferrer"
           style={{
@@ -36,11 +36,11 @@ export default function IndexPage() {
         >
           Check out my featured web application <b><u> Here!</u></b>
         </a>
-      </div> */}
+      </div>
 
 
         <HeroSection sectionId="hero" />
-        <ProjectsSection sectionId="features" heading="Projects" />
+        <ProjectsSection sectionId="features" heading="Projects (click on the image!)" />
         {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
         <AboutSection sectionId="about" heading="About Me!" />
         <InterestsSection sectionId="details" heading="Interests" />
